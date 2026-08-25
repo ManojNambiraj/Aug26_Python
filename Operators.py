@@ -17,4 +17,4 @@
 
         # a = ["apple", "banana", "orange"]
 
-        # print("appl" not in a)
+        # print("apple" in a)
